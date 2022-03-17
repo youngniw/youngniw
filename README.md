@@ -12,9 +12,9 @@ Thank you~~ :)
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">&nbsp;
-<img src="https://img.shields.io/badge/Amozon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
 
 <br/>
 
